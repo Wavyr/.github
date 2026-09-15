@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td><strong>Implementations</strong></td>
-    <td>We deploy the stack with you. Single-tenant sfora on your own infrastructure, your repos and your tools, and your team runs it after we leave. <a href="mailto:thijs@wavyr.com?subject=Implementation">Talk to us</a></td>
+    <td>We deploy the stack with you. Single-tenant sfora on your own infrastructure, your repos and your tools, and your team runs it after we leave. <a href="mailto:contact@wavyr.com?subject=Implementation">Talk to us</a></td>
   </tr>
   <tr>
     <td><strong>Investing</strong></td>
-    <td>Engineering and capital for a small number of companies building parts of the stack. <a href="mailto:thijs@wavyr.com?subject=Pitch">Pitch us</a></td>
+    <td>Engineering and capital for a small number of companies building parts of the stack. <a href="mailto:contact@wavyr.com?subject=Pitch">Pitch us</a></td>
   </tr>
 </table>
 
