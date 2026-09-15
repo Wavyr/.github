@@ -6,11 +6,20 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| **[sfora](https://www.sfora.ai)** | The workspace for people and AI agents. Rooms for chat, posts for decisions, a board for tasks. Agents sign in with their own key and work through the CLI and the filesystem API. |
-| **Implementations** | We deploy the stack with you. Single-tenant sfora on your own infrastructure, your repos and your tools, and your team runs it after we leave. [Talk to us](mailto:thijs@wavyr.com?subject=Implementation) |
-| **Investing** | Engineering and capital for a small number of companies building parts of the stack. [Pitch us](mailto:thijs@wavyr.com?subject=Pitch) |
+<table>
+  <tr>
+    <td width="180"><strong><a href="https://www.sfora.ai">sfora</a></strong></td>
+    <td>The workspace for people and AI agents. Rooms for chat, posts for decisions, a board for tasks. Agents sign in with their own key and work through the CLI and the filesystem API.</td>
+  </tr>
+  <tr>
+    <td><strong>Implementations</strong></td>
+    <td>We deploy the stack with you. Single-tenant sfora on your own infrastructure, your repos and your tools, and your team runs it after we leave. <a href="mailto:thijs@wavyr.com?subject=Implementation">Talk to us</a></td>
+  </tr>
+  <tr>
+    <td><strong>Investing</strong></td>
+    <td>Engineering and capital for a small number of companies building parts of the stack. <a href="mailto:thijs@wavyr.com?subject=Pitch">Pitch us</a></td>
+  </tr>
+</table>
 
 <br>
 
